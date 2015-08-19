@@ -1,0 +1,105 @@
+li a{
+    color:red;
+}
+
+li a:hover{
+    color:green;
+}
+
+p{
+    font-size:1.3em;
+}
+
+.sanpizza{
+    padding-top:5px;
+    font-family:cursive;
+    color:red;
+    font-size:2em;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+.sanpizza:hover{
+    color:green;
+}
+
+h1 a{
+    text-decoration: none;
+}
+
+.pizza{
+    background-color: green;
+    color:white;
+    width:100%;
+}
+
+.innerpizza{
+    padding:1em;
+}
+
+.header{
+    padding-left: 5em;
+    text-decoration: underline;
+}
+
+.itempizza{
+    width:50%;
+}
+
+.sandwiches{
+    background-color:white;
+    color:red;
+    padding-left:50%;
+    height:auto;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.pastas{
+    background-color:#b00;
+    color:white;
+    padding-right:50%;
+    height:auto;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.salads{
+    background-color:green;
+    color:white;
+    padding-left:50%;
+    height:auto;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.appetizers{
+    background-color:white;
+    color:red;
+    padding-right:50%;
+    height:auto;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.desserts{
+    background-color:#b00;
+    color:white;
+    padding-left:50%;
+    height:auto;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+#footer{
+    background-color:#b00;
+    width: 100%;
+    height:auto;
+    color:white;
+    text-align:center;
+    padding-top:1em;
+    padding-bottom: 1em;
+    font-size: .75em;
+}

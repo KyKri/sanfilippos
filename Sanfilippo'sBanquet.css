@@ -1,0 +1,54 @@
+li a{
+    color:red;
+}
+
+li a:hover{
+    color:green;
+}
+
+.sanpizza{
+    padding-top:5px;
+    font-family:cursive;
+    color:red;
+    font-size:2em;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+.sanpizza:hover{
+    color:green;
+}
+
+p{
+    font-size:1.3em;
+}
+
+.banqhead{
+    border:1px solid green;
+    height:auto;
+    width:100%;
+    padding-top:2em;
+    background-color:green;
+    text-align:center;
+    color:white;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.banqinfo{
+    text-align: center;
+    color:red;
+}
+
+#footer{
+    background-color:#b00;
+    width: 100%;
+    height:auto;
+    color:white;
+    text-align:center;
+    padding-top:1em;
+    padding-bottom: 1em;
+    font-size: .75em;
+}

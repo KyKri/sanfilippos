@@ -1,0 +1,138 @@
+li a{
+    color:red;
+}
+
+li a:hover{
+    color:green;
+}
+
+p{
+    font-size:1.3em;
+}
+
+.sanpizza{
+    padding-top:5px;
+    font-family:cursive;
+    color:red;
+    font-size:2em;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+.sanpizza:hover{
+    color:green;
+}
+
+.carousel-inner .item img {
+    margin: 0 auto;
+}
+
+.btn.outline {
+    background: none;
+    padding: 12px 22px;
+}
+
+.btn-primary.outline {
+    border: 2px solid #f33;
+    color: #f33;
+}
+
+.btn-primary.outline:hover{
+    color: white;
+    border-color: #f33;
+    background-color:#f33;
+}
+
+.button{
+    margin-left: 47%;
+    border:2px solid red;
+    border-radius: 5%;
+    background:green;
+    text-align: center;
+    text-decoration: none;
+    height:auto;
+    width:5em;
+    padding-top: .75em;
+    padding-bottom: .75em;
+}
+
+.button a{
+    text-decoration: none;
+    color:white;
+}
+
+.button a:hover{
+    color:red;
+}
+
+.menu{
+    background-color: green;
+    width:100%;
+    height:auto;
+    padding-top: 1em;
+    padding-bottom:1em;
+    text-align: center;
+    color:white;
+}
+
+.location{
+    background-color:white;
+    color:red;
+    width:100%;
+    height:auto;
+    text-align: center;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.history{
+    background-color:#b00;
+    color:white;
+    width:100%;
+    height:auto;
+    text-align: center;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.histimage{
+    border:4px solid #eee;
+    border-radius:2px;
+}
+
+.history p{
+    padding:1em;
+}
+
+.banquets{
+    background-color:green;
+    color:white;
+    text-align:center;
+    width:100%;
+    height:auto;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.reviews{
+    background-color:white;
+    color:red;
+    text-align:center;
+    width:100%;
+    height:auto;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+#footer{
+    background-color:#b00;
+    width: 100%;
+    height:auto;
+    color:white;
+    text-align:center;
+    padding-top:1em;
+    padding-bottom: 1em;
+    font-size: .75em;
+}
